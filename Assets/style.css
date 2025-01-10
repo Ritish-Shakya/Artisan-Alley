@@ -1,0 +1,98 @@
+.crousel-box{
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.trending-products{
+    color: rgb(88, 86, 86);
+    text-align: center;
+    margin-top: 4rem;
+}
+#product-card a{
+    width: 20%;
+    height: 18rem;
+    
+    
+}
+.footer{
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    height: 8rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.social-media {
+    margin: 1rem;
+}
+.social-media a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.social-media a:hover {
+    color: rgb(119, 115, 115);
+}
+#login-card{
+    margin: 0 auto;
+    margin-top: 2rem;
+    width: 40%;
+    color: rgb(104, 99, 99);
+    box-shadow: 0px 1px 1px rgb(134, 134, 134);
+    
+    
+}
+.login-head{
+    padding: 10px;
+    margin-top:2rem ;
+    text-align: center;
+    font-family: sans-serif;
+}
+#username{
+    width: 95%;
+    height: 2rem;
+}
+#password{
+    width: 95%;
+    height: 2rem;
+}
+#login-btn{
+    width: 95%;
+    height: 2.5rem;
+    margin-bottom: 3rem;
+}
+.main-container{
+    height: 28.8rem;
+}
+#card-container{
+    width: 90%;
+}
+.desc-part{
+    text-align: center;
+    margin-top: 1rem;
+}
+.product-title{
+    font-size: 18px;
+}
+#qty{
+    width: 95%;
+    height: 2rem;
+}
+#total{
+    width: 95%;
+    height: 2rem;
+}
+#price{
+    width: 95%;
+    height: 2rem;
+}
+
+
+
+
+
+
+
+
